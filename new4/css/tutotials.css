@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.pagebanner{
+    background-image: url("slides/upbanner.jpg");
+    height: 50vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: 100vw 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutInfo{
+    background-color: rgb(14, 15, 22);
+    height: 6vh;
+    align-items: center;
+    justify-content: center;
+}
+.viewContainerOne{
+    display: flex;
+    gap: 0;
+    flex-direction: column;
+}
+p{
+    color: aliceblue;
+    text-shadow: 2px 2px #2c2b2b;
+    font-size: 7vh;
+    font-family: "Lucida Console";
+}
+
+.description{
+    background-color: rgb(228, 225, 221);
+    width: 90vw;
+    height: 100vh;
+    display: flex;
+    gap: 1em;
+    align-self: center;
+    justify-content: space-evenly;
+    box-shadow: 0px 0px 25px 16px rgba(44, 43, 43, 0.54);
+-webkit-box-shadow: 0px 0px 25px 16px rgba(51, 51, 51, 0.54);
+-moz-box-shadow: 0px 0px 25px 16px rgba(37, 37, 37, 0.54);
+}
+.contextText{
+    font-size: 8px;
+}
+
+.shapedbox{
+    background-color: rgb(168, 169, 169);
+    margin-top: 25px;
+    width: 25vw;
+    height: 20vw;
+    border-radius: 20%;
+    box-shadow: 10px 7px 25px 4px rgba(0,0,0,0.54);
+-webkit-box-shadow: 10px 7px 25px 4px rgba(0,0,0,0.54);
+-moz-box-shadow: 10px 7px 25px 4px rgba(0,0,0,0.54);
+}
+
+.button1:focus{
+    width: 300px;
+}
+.imgContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+.imageOne{
+    background-image: url("slides/hall2.jpg");
+    background-size: 25vw 20vw;
+    background-repeat: no-repeat;
+}
+
+.content-pic {
+    background: url("slides/hall2.jpg");
+    background-size: 25vw 20vw;
+}
+
+.Box-Title {
+    color: black;
+    font-size: 4vh;
+}
+
+.Box-content {
+    color: black;
+    font-size: 4vh;
+}
+
