@@ -7,9 +7,9 @@ James Patrick DP. Paloyo
 
 📅 Date: February 18, 2024
 
-## Introduction
+## About the Project
 
-CampusTrailblazer is designed as the ultimate First-Year Toolkit for Academic Excellence. It provides essential resources, collaborative tools, and mentorship opportunities to help first-year college students thrive academically and socially. With a user-centered approach, the platform promotes effective study habits, easy collaboration, and community engagement.
+CampusTrailblazer empowers first-year students to blaze their trail toward academic success through a powerful, user-friendly digital toolkit. By combining collaborative learning, personal growth, and academic excellence, it supports students through the challenges of their first college experiences.
 
 ## Academic Resources
 
@@ -57,6 +57,4 @@ CampusTrailblazer is designed as the ultimate First-Year Toolkit for Academic Ex
 
     Accessibility: Designed with accessibility standards to be usable by students of all backgrounds.
 
-About the Project
 
-CampusTrailblazer empowers first-year students to blaze their trail toward academic success through a powerful, user-friendly digital toolkit. By combining collaborative learning, personal growth, and academic excellence, it supports students through the challenges of their first college experiences.
