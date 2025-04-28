@@ -1,0 +1,127 @@
+.containLower{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 25px;
+    gap: 15px;
+}
+.containObj{
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: #569567;
+}
+
+.cite{
+    content: url("course_img/cite.png");
+    width: 30vw;
+    height: 40vh;
+    background-color: #E8FFD1;
+    border: 2px solid black;
+}
+.bsacc{
+    content: url("course_img/bsa.png");
+    width: 30vw;
+    height: 40vh;
+    background-color: #E8FFD1;
+    border: 2px solid black;
+}
+.bsacc{
+    content: url("course_img/bsa.png");
+    width: 30vw;
+    height: 40vh;
+    background-color: #E8FFD1;
+    border: 2px solid black;
+}
+
+.bsn{
+    content: url("course_img/Doctors\ and\ nurses\ with\ attributes\ \(1\).png");
+    width: 30vw;
+    height: 40vh;
+    background-color: #E8FFD1;
+    border: 2px solid black;
+}
+
+.ops{
+    content: url("course_img/puffy\ lettering\ sticker\ oops\ text\ \(1\).png");
+    width: 30vw;
+    height: 40vh;
+    background-color: #E8FFD1;
+    border: 2px solid black;
+}
+
+
+
+
+
+
+/*MOBILE*/
+@media (max-width: 858px){
+    .containLower{
+        flex-direction: column;
+        gap: 30px;
+        width: 100vw;
+        margin-top: 0px;
+    }
+    .containObj{
+        width: 100vw;
+        display: block;
+        align-items: center;
+        text-align: center;
+        background-color: #569567;
+        padding-bottom: 5px;
+        border-bottom: 2px solid black;
+    }
+    
+    .cite{
+        content: url("course_img/cite.png");
+        width: 100vw;
+        background-color: #E8FFD1;
+        border-top: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+    }
+    .bsacc{
+        content: url("course_img/bsa.png");
+        width: 100vw;
+        background-color: #E8FFD1;
+        border-top: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+    }
+    .bsacc{
+        content: url("course_img/bsa.png");
+        width: 100vw;
+        height: 40vh;
+        background-color: #E8FFD1;
+        border-top: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+    }
+    
+    .bsn{
+        content: url("course_img/Doctors\ and\ nurses\ with\ attributes\ \(1\).png");
+        width: 100vw;
+        height: 40vh;
+        background-color: #E8FFD1;
+        border-top: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+    }
+    
+    .ops{
+        content: url("course_img/puffy\ lettering\ sticker\ oops\ text\ \(1\).png");
+        width: 100vw;
+        height: 40vh;
+        background-color: #E8FFD1;
+        border-top: 2px solid black;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+    }
+    .containLower2{
+        margin-top: 60px;
+        margin-bottom: 50px;
+    }
+}
+
